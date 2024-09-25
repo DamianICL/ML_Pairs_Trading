@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+yfinance
+ta-lib
+backtrader

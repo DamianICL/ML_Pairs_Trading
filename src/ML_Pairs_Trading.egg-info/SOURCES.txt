@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/ML_Pairs_Trading.egg-info/PKG-INFO
+src/ML_Pairs_Trading.egg-info/SOURCES.txt
+src/ML_Pairs_Trading.egg-info/dependency_links.txt
+src/ML_Pairs_Trading.egg-info/requires.txt
+src/ML_Pairs_Trading.egg-info/top_level.txt
+tests/test_data_collection.py
+tests/test_model_training.py
