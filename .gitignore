@@ -1,0 +1,30 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore byte-compiled and dynamically linked libraries
+*.so
+*.dylib
+*.dll
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and other temporary files
+*.log
+*.csv
+*.tmp
+
+# Ignore local IDE files (PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+
+# Ignore build files
+build/
+dist/
+*.egg-info/
+
